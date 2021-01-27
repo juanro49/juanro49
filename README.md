@@ -6,7 +6,7 @@
 <h1 align="center">Hola!! 🙋‍♂️️, bienvenido a mi perfil de Github 👨‍💻️</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanro49&label=Profile%20views&color=0e75b6&style=plastic" alt="juanro49" /> </p>
 
-- 🔭 Trabajo actualmente en [Viewnext](https://www.viewnext.com/)
+- 🔭 Trabajo actualmente en [Viewnext](https://www.viewnext.com/) como desarrollador [IBM Integration Bus](https://www.ibm.com/support/knowledgecenter/es/SSMKHH_10.0.0/com.ibm.etools.msgbroker.helphome.doc/help_home_msgbroker.htm)
 
 - 👨‍💻 Puedes encontrar mis proyectos en la pestaña [repositorios de Github](https://github.com/juanro49?tab=repositories)
 
@@ -30,8 +30,9 @@
   <a href="https://www.youtube.com/c/JuanRobertoGarcíaSánchez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/youtube.svg" alt="ruper_49" height="30" width="40" /></a>
   <a href="/http://feeds.feedburner.com/instatecno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/rss.svg" alt="http://feeds.feedburner.com/instatecno" height="30" width="40" /></a>
   </p>
+&nbsp;
 
-<h3 align="left">Lenguajes y herramientas:</h3>
+### Lenguajes y herramientas:
   <p align="center">
   <a href="https://www.ibm.com/support/knowledgecenter/es/SSMKHH_10.0.0/com.ibm.etools.mft.doc/ak00990_.htm" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/ibm.svg" alt="ESQL" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
@@ -54,12 +55,14 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.gnu.org/home.es.html" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/gnu.svg" alt="gnu" width="40" height="40"/></a>
   </p>
+&nbsp;
 
-<h3 align="left">Mis estadísticas en Github:</h3>
+### Mis estadísticas en Github:
 <p align="center">
-  <img height="180dp" src="https://github-readme-stats.vercel.app/api?username=juanro49&show_icons=true&theme=tokyonight&locale=es&count_private=true&include_all_commits=true" alt="juanro49" /><img height="180dp" src="https://github-readme-streak-stats.herokuapp.com/?user=juanro49&theme=tokyonight&locale=es" alt="juanro49" />
+  <img height="145dp" src="https://github-readme-stats.vercel.app/api?username=juanro49&show_icons=true&theme=tokyonight&locale=es&count_private=true&include_all_commits=true" alt="juanro49" /><img height="145dp" src="https://github-readme-streak-stats.herokuapp.com/?user=juanro49&theme=tokyonight&locale=es" alt="juanro49" />
 </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanro49" alt="juanro49" /></a> </p>
+&nbsp;
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
