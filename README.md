@@ -66,10 +66,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Cómo seguir a Instatecno en 2021 y no perderte nada - InstaTecno](http://feedproxy.google.com/~r/Instatecno/~3/hy7SNYKXXJw/CBMiQ2h0dHBzOi8vaW5zdGF0ZWNuby5jb20vY29tby1zZWd1aXItYS1pbnN0YXRlY25vLXktbm8tcGVyZGVydGUtbmFkYS_SAQA)
-- [Cómo seguir a Instatecno en 2021 y no perderte nada - InstaTecno](https://instatecno.com/como-seguir-a-instatecno-y-no-perderte-nada/)
 - [▷ Cómo añadir canales a Agile TV, Zapi TV o cualquier TV Box - InstaTecno](https://instatecno.com/anadir-canales-agile-tv-zapi-tv-box/)
 - [Especificaciones de la tablet Huawei MatePad - InstaTecno](https://instatecno.com/especificaciones-de-la-tablet-huawei-matepad/)
+- [Huawei lanza PC de sobremesa ARM con SoC HiSilicon Kunpeng - InstaTecno](https://instatecno.com/huawei-pc-sobremesa-arm-hisilicon-kunpeng-gnu-linux/)
+- [Cómo programar post en Instagram - InstaTecno](https://instatecno.com/como-programar-post-en-instagram/)
 <!-- BLOG-POST-LIST:END -->
 
 [<img src="https://coindrop.to/embed-button.png" style="border-radius: 10px; height: 57px !important;width: 200px !important;" alt="Coindrop.to me">](https://coindrop.to/juanro49)
