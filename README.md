@@ -14,7 +14,7 @@
 
 - 📄 Conoce mi experiencia y formación en [LinkedIn](https://www.linkedin.com/in/juanro49/)
 
-- 📫 Puedes encontrarme principalmente en [redes del fediverso](https://fediverse.party/) además de las siguientes:
+- 📫 Puedes contactar conmigo mediante [correo electrónico](mailto:juanro49+github@getgoogleoff.me) y encontrarme principalmente en [redes del fediverso](https://fediverse.party/) además de las siguientes:
 
   <p align="center">
   <a href="https://linkedin.com/in/juanro49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/linkedin.svg" alt="juanro49" height="30" width="40" /></a>
