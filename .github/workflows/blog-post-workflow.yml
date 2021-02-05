@@ -10,5 +10,5 @@ jobs:
             - uses: actions/checkout@v2
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
-                max_post_count: "4"
+                max_post_count: "6"
                 feed_list: "http://feeds.feedburner.com/instatecno, https://news.google.com/rss/search?q=InstaTecno&gl=CU&hl=es-419&ceid=CU:es-419"
