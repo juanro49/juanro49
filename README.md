@@ -29,7 +29,7 @@
   <a href="https://fb.com/juanro49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/facebook.svg" alt="juanro49" height="30" width="40" /></a>
   <a href="https://instagram.com/juanro49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/instagram.svg" alt="juanro49" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/JuanRobertoGarcíaSánchez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/youtube.svg" alt="ruper_49" height="30" width="40" /></a>
-  <a href="/http://feeds.feedburner.com/instatecno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/rss.svg" alt="http://feeds.feedburner.com/instatecno" height="30" width="40" /></a>
+  <a href="http://feeds.feedburner.com/instatecno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/rss.svg" alt="http://feeds.feedburner.com/instatecno" height="30" width="40" /></a>
   </p>
 &nbsp;
 
