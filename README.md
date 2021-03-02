@@ -76,4 +76,4 @@
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
 
-[<img src="https://coindrop.to/embed-button.png" style="border-radius: 10px; height: 57px !important;width: 200px !important;" alt="Coindrop.to me">](https://coindrop.to/juanro49)
+[<img src="https://coindrop.to/embed-button.png" border-radius="10px" height="57" width="200px" alt="Coindrop.to me">](https://coindrop.to/juanro49) [<img alt="Donate using Liberapay" border-radius="10px" height="57" width="200px" src="https://liberapay.com/assets/widgets/donate.svg">](https://liberapay.com/juanro49/donate)
