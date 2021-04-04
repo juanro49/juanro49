@@ -17,19 +17,20 @@
 - 📫 Puedes contactar conmigo mediante [correo electrónico](mailto:juanro49+git@getgoogleoff.me) y encontrarme principalmente en [redes del fediverso](https://fediverse.party/) además de las siguientes:
 
   <p align="center">
-  <a href="https://linkedin.com/in/juanro49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/linkedin.svg" alt="juanro49" height="30" width="40" /></a>
-  <a href="https://es.stackoverflow.com/users/141821" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/stackoverflow.svg" alt="141821" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/12071003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/stackoverflow.svg" alt="12071003" height="30" width="40" /></a>
-  <a href="https://www.suchat.org/jid/juanro49@disroot.org" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/xmpp.svg" alt="juanro49@disroot.org" height="30" width="40" /></a>
-  <a href="https://matrix.to/#/@juanro49:privacytools.io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/matrix.svg" alt="juanro49" height="30" width="40" /></a>
-  <a rel="me" href="https://masto.nogafam.es/@juanro49"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mastodon.svg" alt="juanro49" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/juanro49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/linkedin.svg" alt="juanro49" height="30" width="40" /></a>
+  <a href="https://es.stackoverflow.com/users/141821" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/stackoverflow.svg" alt="141821" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/12071003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/stackoverflow.svg" alt="12071003" height="30" width="40" /></a>
+  <a href="https://www.suchat.org/jid/juanro49@disroot.org" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/xmpp.svg" alt="juanro49@disroot.org" height="30" width="40" /></a>
+  <a href="https://matrix.to/#/@juanro49:privacytools.io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/matrix.svg" alt="juanro49" height="30" width="40" /></a>
+  <a rel="me" href="https://masto.nogafam.es/@juanro49"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/mastodon.svg" alt="juanro49" height="30" width="40" /></a>
   <a href="https://pixelfed.social/juanro49" target="blank"><img align="center" src="https://pixelfed.nyc3.digitaloceanspaces.com/logos/pixelfed-icon-black.svg" alt="juanro49" height="30" width="40" /></a>
   <a href="https://hub.disroot.org/channel/juanro49" target="blank"><img align="center" src="https://nlnet.nl/project/Hubzilla/hubzilla.svg" alt="juanro49" height="30" width="40" /></a>
-  <a href="https://twitter.com/juanro49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/twitter.svg" alt="juanro49" height="30" width="40" /></a>
-  <a href="https://fb.com/juanro49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/facebook.svg" alt="juanro49" height="30" width="40" /></a>
-  <a href="https://instagram.com/juanro49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/instagram.svg" alt="juanro49" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/JuanRobertoGarcíaSánchez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/youtube.svg" alt="ruper_49" height="30" width="40" /></a>
-  <a href="http://feeds.feedburner.com/instatecno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/rss.svg" alt="http://feeds.feedburner.com/instatecno" height="30" width="40" /></a>
+  <a href="https://fediverse.tv/accounts/juanro49/video-channels" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/peertube.svg" alt="juanro49" height="30" width="40" /></a>
+  <a href="https://twitter.com/juanro49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/twitter.svg" alt="juanro49" height="30" width="40" /></a>
+  <a href="https://fb.com/juanro49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/facebook.svg" alt="juanro49" height="30" width="40" /></a>
+  <a href="https://instagram.com/juanro49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/instagram.svg" alt="juanro49" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/JuanRobertoGarcíaSánchez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/youtube.svg" alt="ruper_49" height="30" width="40" /></a>
+  <a href="http://feeds.feedburner.com/instatecno" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/rss.svg" alt="http://feeds.feedburner.com/instatecno" height="30" width="40" /></a>
   </p>
 &nbsp;
 
@@ -54,7 +55,7 @@
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/home.es.html" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/gnu.svg" alt="gnu" width="40" height="40"/></a>
+  <a href="https://www.gnu.org/home.es.html" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/gnu.svg" alt="gnu" width="40" height="40"/></a>
   </p>
 &nbsp;
 
