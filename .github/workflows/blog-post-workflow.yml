@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "6"
-                feed_list: "http://feeds.feedburner.com/instatecno, https://news.google.com/rss/search?q=InstaTecno&gl=CU&hl=es-419&ceid=CU:es-419"
+                feed_list: "http://feeds.feedburner.com/instatecno, https://news.google.com/rss/search?q=InstaTecno&gl=CU&hl=es-419&ceid=CU:es-419, https://fediverse.tv/feeds/videos.xml?accountId=17560&token=8be337e3-c267-4060-951e-1bbdebc90077"
