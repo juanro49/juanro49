@@ -68,12 +68,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Extraer imágenes de sistema Android desde Linux - InstaTecno](http://feedproxy.google.com/~r/Instatecno/~3/iw4e7hWe4QQ/CBMiRGh0dHBzOi8vaW5zdGF0ZWNuby5jb20vZXh0cmFlci1pbWFnZW5lcy1zaXN0ZW1hLWFuZHJvaWQtZGVzZGUtbGludXgv0gEA)
 - [Cómo seguir a Instatecno en 2021 y no perderte nada - InstaTecno](https://instatecno.com/como-seguir-a-instatecno-y-no-perderte-nada/)
 - [▷ Cómo añadir canales a Agile TV, Zapi TV o cualquier TV Box - InstaTecno](https://instatecno.com/anadir-canales-agile-tv-zapi-tv-box/)
 - [Especificaciones de la tablet Huawei MatePad - InstaTecno](https://instatecno.com/especificaciones-de-la-tablet-huawei-matepad/)
 - [Huawei lanza PC de sobremesa ARM con SoC HiSilicon Kunpeng - InstaTecno](https://instatecno.com/huawei-pc-sobremesa-arm-hisilicon-kunpeng-gnu-linux/)
 - [Cómo programar post en Instagram - InstaTecno](https://instatecno.com/como-programar-post-en-instagram/)
-- [Peligro: no pongas este fondo de pantalla - InstaTecno](https://instatecno.com/peligro-no-pongas-este-fondo-de-pantalla/)
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
 
