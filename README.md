@@ -68,7 +68,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Unboxing Zapi STB, el TV Box de ZapiTV](http://feedproxy.google.com/~r/fediversetv_juanro49/~3/Qg32r8ipiJg/21eea4dc-62d6-485d-a25e-56d670358d78)
+- [Unboxing Zapi STB, el TV Box de Zapi TV](http://feedproxy.google.com/~r/fediversetv_juanro49/~3/Qg32r8ipiJg/21eea4dc-62d6-485d-a25e-56d670358d78)
 - [Extraer y empaquetar imágenes del sistema Android (system.img y cust.img) desde Linux](http://feedproxy.google.com/~r/fediversetv_juanro49/~3/_cPQuo-ik8g/eab8f313-fdef-496d-9365-6666d69ead37)
 - [Cómo seguir a Instatecno en 2021 y no perderte nada - InstaTecno](https://instatecno.com/como-seguir-a-instatecno-y-no-perderte-nada/)
 - [Especificaciones de la tablet Huawei MatePad - InstaTecno](https://instatecno.com/especificaciones-de-la-tablet-huawei-matepad/)
