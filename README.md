@@ -76,7 +76,7 @@
 - [Cómo seguir a Instatecno en 2021 y no perderte nada - InstaTecno](https://instatecno.com/como-seguir-a-instatecno-y-no-perderte-nada/)
 - [Especificaciones de la tablet Huawei MatePad - InstaTecno](https://instatecno.com/especificaciones-de-la-tablet-huawei-matepad/)
 - [Huawei lanza PC de sobremesa ARM con SoC HiSilicon Kunpeng - InstaTecno](https://instatecno.com/huawei-pc-sobremesa-arm-hisilicon-kunpeng-gnu-linux/)
-- [Cómo programar post en Instagram - InstaTecno](https://instatecno.com/como-programar-post-en-instagram/)
+- [Cómo programar post en Instagram - instatecno.com](https://instatecno.com/como-programar-post-en-instagram/)
 - [Peligro: no pongas este fondo de pantalla - InstaTecno](https://instatecno.com/peligro-no-pongas-este-fondo-de-pantalla/)
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
