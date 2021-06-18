@@ -70,6 +70,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Actualizar Huawei y Honor con Firmware Finder (DNS)](http://feedproxy.google.com/~r/fediversetv_juanro49/~3/9a-It0CLyQg/b6f45fa6-d30f-4817-afee-724ca989034b)
 - [Zapi TV: Opinión sobre el servicio de TV de los operadores locales](http://feedproxy.google.com/~r/fediversetv_juanro49/~3/viTPF_-RCPs/3bb29d5a-f527-444a-9441-e9ca47df5981)
+- [Zapi TV: la TV de operadores locales para competir con los nacionales - InstaTecno - InstaTecno](https://instatecno.com/zapi-tv-television-operadores-locales/)
 - [Unboxing Zapi STB, el TV Box de Zapi TV](http://feedproxy.google.com/~r/fediversetv_juanro49/~3/Qg32r8ipiJg/21eea4dc-62d6-485d-a25e-56d670358d78)
 - [Extraer y empaquetar imágenes del sistema Android (system.img y cust.img) desde Linux](http://feedproxy.google.com/~r/fediversetv_juanro49/~3/_cPQuo-ik8g/eab8f313-fdef-496d-9365-6666d69ead37)
 - [Cómo seguir a Instatecno en 2021 y no perderte nada - InstaTecno](https://instatecno.com/como-seguir-a-instatecno-y-no-perderte-nada/)
@@ -77,7 +78,6 @@
 - [Huawei lanza PC de sobremesa ARM con SoC HiSilicon Kunpeng - InstaTecno](https://instatecno.com/huawei-pc-sobremesa-arm-hisilicon-kunpeng-gnu-linux/)
 - [Cómo programar post en Instagram - InstaTecno](https://instatecno.com/como-programar-post-en-instagram/)
 - [Peligro: no pongas este fondo de pantalla - InstaTecno](https://instatecno.com/peligro-no-pongas-este-fondo-de-pantalla/)
-- [Más de 24000 aplicaciones de Play Store filtran datos de usuarios - InstaTecno](https://instatecno.com/webs-aplicaciones-exponen-datos-usuarios-firebase/)
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
 
