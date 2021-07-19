@@ -77,7 +77,7 @@
 - [Especificaciones de la tablet Huawei MatePad - InstaTecno](https://instatecno.com/especificaciones-de-la-tablet-huawei-matepad/)
 - [Huawei lanza PC de sobremesa ARM con SoC HiSilicon Kunpeng - InstaTecno](https://instatecno.com/huawei-pc-sobremesa-arm-hisilicon-kunpeng-gnu-linux/)
 - [Peligro: no pongas este fondo de pantalla - InstaTecno](https://instatecno.com/peligro-no-pongas-este-fondo-de-pantalla/)
-- [Más de 24000 aplicaciones de Play Store filtran datos de usuarios - InstaTecno](https://instatecno.com/webs-aplicaciones-exponen-datos-usuarios-firebase/)
+- [Más de 24000 aplicaciones de Play Store filtran datos de usuarios - instatecno.com](https://instatecno.com/webs-aplicaciones-exponen-datos-usuarios-firebase/)
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
 
