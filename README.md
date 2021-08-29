@@ -75,9 +75,9 @@
 - [Extraer y empaquetar imágenes del sistema Android (system.img y cust.img) desde Linux](http://feedproxy.google.com/~r/fediversetv_juanro49/~3/_cPQuo-ik8g/eab8f313-fdef-496d-9365-6666d69ead37)
 - [Cómo seguir a Instatecno en 2021 y no perderte nada - InstaTecno](https://instatecno.com/como-seguir-a-instatecno-y-no-perderte-nada/)
 - [Huawei lanza PC de sobremesa ARM con SoC HiSilicon Kunpeng - InstaTecno](https://instatecno.com/huawei-pc-sobremesa-arm-hisilicon-kunpeng-gnu-linux/)
+- [Peligro: no pongas este fondo de pantalla - InstaTecno](https://instatecno.com/peligro-no-pongas-este-fondo-de-pantalla/)
 - [Más de 24000 aplicaciones de Play Store filtran datos de usuarios - InstaTecno](https://instatecno.com/webs-aplicaciones-exponen-datos-usuarios-firebase/)
 - [Instala Facebook, WhatsApp o Google desde AppGallery con Uptodown - InstaTecno](https://instatecno.com/facebook-whatsapp-google-appgallery-uptodown/)
-- [¿Cómo instalar la beta de EMUI 10? - InstaTecno](https://instatecno.com/como-instalar-la-beta-de-emui-10/)
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
 
