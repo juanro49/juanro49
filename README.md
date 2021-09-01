@@ -77,7 +77,7 @@
 - [Huawei lanza PC de sobremesa ARM con SoC HiSilicon Kunpeng - InstaTecno](https://instatecno.com/huawei-pc-sobremesa-arm-hisilicon-kunpeng-gnu-linux/)
 - [Peligro: no pongas este fondo de pantalla - InstaTecno](https://instatecno.com/peligro-no-pongas-este-fondo-de-pantalla/)
 - [Más de 24000 aplicaciones de Play Store filtran datos de usuarios - InstaTecno](https://instatecno.com/webs-aplicaciones-exponen-datos-usuarios-firebase/)
-- [Instala Facebook, WhatsApp o Google desde AppGallery con Uptodown - InstaTecno](https://instatecno.com/facebook-whatsapp-google-appgallery-uptodown/)
+- [Presentación Xiaomi Redmi Note 9, Note 9 Pro y Mi Note 10 Lite - InstaTecno](https://instatecno.com/presentacion-xiaomi-redmi-note-9-note-9-pro-y-mi-note-10-lite/)
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
 
