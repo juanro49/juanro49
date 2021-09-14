@@ -70,8 +70,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Actualizar Huawei y Honor con Firmware Finder (DNS)](http://feedproxy.google.com/~r/fediversetv_juanro49/~3/UphTJy4rvqY/b6f45fa6-d30f-4817-afee-724ca989034b)
 - [Zapi TV: Opinión sobre el servicio de TV de los operadores locales](http://feedproxy.google.com/~r/fediversetv_juanro49/~3/wEKsi3K5YOw/3bb29d5a-f527-444a-9441-e9ca47df5981)
-- [Zapi TV: la TV de operadores locales para competir con los nacionales - InstaTecno](https://instatecno.com/zapi-tv-television-operadores-locales/)
 - [Unboxing Zapi STB, el TV Box de Zapi TV](http://feedproxy.google.com/~r/fediversetv_juanro49/~3/Uq4Y9SMLJj0/21eea4dc-62d6-485d-a25e-56d670358d78)
+- [Extraer imágenes de sistema Android desde Linux - InstaTecno](https://instatecno.com/extraer-imagenes-sistema-android-desde-linux/)
 - [Extraer y empaquetar imágenes del sistema Android (system.img y cust.img) desde Linux](http://feedproxy.google.com/~r/fediversetv_juanro49/~3/EUXiLL7AZDQ/eab8f313-fdef-496d-9365-6666d69ead37)
 - [Cómo seguir a Instatecno en 2021 y no perderte nada - InstaTecno](https://instatecno.com/como-seguir-a-instatecno-y-no-perderte-nada/)
 - [Especificaciones de la tablet Huawei MatePad - InstaTecno](https://instatecno.com/especificaciones-de-la-tablet-huawei-matepad/)
