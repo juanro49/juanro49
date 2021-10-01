@@ -68,7 +68,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Review portatil MSI Alpha 15 A3DDK](https://plume.nogafam.es/~/ElBlogDeJuanro/Review portatil MSI Alpha 15 A3DDK/)
 - [Actualizar Huawei y Honor con Firmware Finder (DNS)](http://feedproxy.google.com/~r/fediversetv_juanro49/~3/UphTJy4rvqY/b6f45fa6-d30f-4817-afee-724ca989034b)
 - [Zapi TV: Opinión sobre el servicio de TV de los operadores locales](http://feedproxy.google.com/~r/fediversetv_juanro49/~3/wEKsi3K5YOw/3bb29d5a-f527-444a-9441-e9ca47df5981)
 - [Zapi TV: la TV de operadores locales para competir con los nacionales - InstaTecno](https://instatecno.com/zapi-tv-television-operadores-locales/)
@@ -78,6 +77,7 @@
 - [Huawei lanza PC de sobremesa ARM con SoC HiSilicon Kunpeng - InstaTecno](https://instatecno.com/huawei-pc-sobremesa-arm-hisilicon-kunpeng-gnu-linux/)
 - [Peligro: no pongas este fondo de pantalla - InstaTecno](https://instatecno.com/peligro-no-pongas-este-fondo-de-pantalla/)
 - [Más de 24000 aplicaciones de Play Store filtran datos de usuarios - InstaTecno](https://instatecno.com/webs-aplicaciones-exponen-datos-usuarios-firebase/)
+- [Presentación Xiaomi Redmi Note 9, Note 9 Pro y Mi Note 10 Lite - InstaTecno](https://instatecno.com/presentacion-xiaomi-redmi-note-9-note-9-pro-y-mi-note-10-lite/)
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
 
