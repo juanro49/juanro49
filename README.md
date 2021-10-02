@@ -68,6 +68,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [¿Se puede vivir sin los servicios de Google en Android? Ésta es mi experiencia](https://plume.nogafam.es/~/ElBlogDeJuanro/¿Se-puede-vivir-sin-los-servicios-de-Google-en-Android?-Ésta-es-mi-experiencia/)
+- [Review portatil MSI Alpha 15 A3DDK](https://plume.nogafam.es/~/ElBlogDeJuanro/Review portatil MSI Alpha 15 A3DDK/)
 - [Actualizar Huawei y Honor con Firmware Finder (DNS)](http://feedproxy.google.com/~r/fediversetv_juanro49/~3/UphTJy4rvqY/b6f45fa6-d30f-4817-afee-724ca989034b)
 - [Zapi TV: Opinión sobre el servicio de TV de los operadores locales](http://feedproxy.google.com/~r/fediversetv_juanro49/~3/wEKsi3K5YOw/3bb29d5a-f527-444a-9441-e9ca47df5981)
 - [Zapi TV: la TV de operadores locales para competir con los nacionales - InstaTecno](https://instatecno.com/zapi-tv-television-operadores-locales/)
@@ -76,8 +78,6 @@
 - [Cómo seguir a Instatecno en 2021 y no perderte nada - InstaTecno](https://instatecno.com/como-seguir-a-instatecno-y-no-perderte-nada/)
 - [Especificaciones de la tablet Huawei MatePad - InstaTecno](https://instatecno.com/especificaciones-de-la-tablet-huawei-matepad/)
 - [Huawei lanza PC de sobremesa ARM con SoC HiSilicon Kunpeng - InstaTecno](https://instatecno.com/huawei-pc-sobremesa-arm-hisilicon-kunpeng-gnu-linux/)
-- [Peligro: no pongas este fondo de pantalla - InstaTecno](https://instatecno.com/peligro-no-pongas-este-fondo-de-pantalla/)
-- [Más de 24000 aplicaciones de Play Store filtran datos de usuarios - InstaTecno](https://instatecno.com/webs-aplicaciones-exponen-datos-usuarios-firebase/)
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
 
