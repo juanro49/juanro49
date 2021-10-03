@@ -68,9 +68,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [¿Se puede vivir sin los servicios de Google en Android? Ésta es mi experiencia](https://plume.nogafam.es/~/ElBlogDeJuanro/¿Se-puede-vivir-sin-los-servicios-de-Google-en-Android?-Ésta-es-mi-experiencia/)
 - [¿Se puede vivir sin los servicios de Google en Android? Ésta es mi experiencia](http://feedproxy.google.com/~r/blog_Juanro49/~3/q2hhZIRDMKc/%C2%BFSe-puede-vivir-sin-los-servicios-de-Google-en-Android)
-- [Review portatil MSI Alpha 15 A3DDK](https://plume.nogafam.es/~/ElBlogDeJuanro/Review portatil MSI Alpha 15 A3DDK/)
 - [Review portatil MSI Alpha 15 A3DDK](http://feedproxy.google.com/~r/blog_Juanro49/~3/L9bq3gQN7Hg/)
 - [Actualizar Huawei y Honor con Firmware Finder (DNS)](http://feedproxy.google.com/~r/fediversetv_juanro49/~3/UphTJy4rvqY/b6f45fa6-d30f-4817-afee-724ca989034b)
 - [Zapi TV: Opinión sobre el servicio de TV de los operadores locales](http://feedproxy.google.com/~r/fediversetv_juanro49/~3/wEKsi3K5YOw/3bb29d5a-f527-444a-9441-e9ca47df5981)
