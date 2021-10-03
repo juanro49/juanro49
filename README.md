@@ -68,6 +68,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Extraer imágenes de sistema Android desde Gnu/Linux](http://feedproxy.google.com/~r/blog_Juanro49/~3/gsFEC_RFvHw/)
 - [¿Se puede vivir sin los servicios de Google en Android? Ésta es mi experiencia](http://feedproxy.google.com/~r/blog_Juanro49/~3/q2hhZIRDMKc/%C2%BFSe-puede-vivir-sin-los-servicios-de-Google-en-Android)
 - [Review portatil MSI Alpha 15 A3DDK](http://feedproxy.google.com/~r/blog_Juanro49/~3/L9bq3gQN7Hg/)
 - [Actualizar Huawei y Honor con Firmware Finder (DNS)](http://feedproxy.google.com/~r/fediversetv_juanro49/~3/UphTJy4rvqY/b6f45fa6-d30f-4817-afee-724ca989034b)
