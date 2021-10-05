@@ -68,6 +68,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cómo usar Smart Cards y DNI electrónico en Firefox](http://feedproxy.google.com/~r/blog_Juanro49/~3/6wPsWESE-jw/)
 - [Extraer imágenes de sistema Android desde Gnu/Linux](http://feedproxy.google.com/~r/blog_Juanro49/~3/gsFEC_RFvHw/)
 - [¿Se puede vivir sin los servicios de Google en Android? Ésta es mi experiencia](http://feedproxy.google.com/~r/blog_Juanro49/~3/q2hhZIRDMKc/%C2%BFSe-puede-vivir-sin-los-servicios-de-Google-en-Android)
 - [Review portatil MSI Alpha 15 A3DDK](http://feedproxy.google.com/~r/blog_Juanro49/~3/L9bq3gQN7Hg/)
