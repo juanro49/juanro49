@@ -68,6 +68,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [La moneda libre Ğ1, que es y que la diferencia de las demás criptomonedas](http://feedproxy.google.com/~r/blog_Juanro49/~3/-nzhocL3N9E/)
 - [Cómo usar Smart Cards y DNI electrónico en Firefox](http://feedproxy.google.com/~r/blog_Juanro49/~3/6wPsWESE-jw/)
 - [Extraer imágenes de sistema Android desde Gnu/Linux](http://feedproxy.google.com/~r/blog_Juanro49/~3/gsFEC_RFvHw/)
 - [¿Se puede vivir sin los servicios de Google en Android? Ésta es mi experiencia](http://feedproxy.google.com/~r/blog_Juanro49/~3/q2hhZIRDMKc/%C2%BFSe-puede-vivir-sin-los-servicios-de-Google-en-Android)
