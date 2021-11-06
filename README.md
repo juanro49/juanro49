@@ -68,6 +68,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [F-Droid, la Store para los amantes del OpenSource](http://feedproxy.google.com/~r/blog_Juanro49/~3/Qirym5kuD2U/)
 - [La moneda libre Ğ1, que es y que la diferencia de las demás criptomonedas](http://feedproxy.google.com/~r/blog_Juanro49/~3/-nzhocL3N9E/)
 - [Cómo usar Smart Cards y DNI electrónico en Firefox](http://feedproxy.google.com/~r/blog_Juanro49/~3/6wPsWESE-jw/)
 - [Extraer imágenes de sistema Android desde Gnu/Linux](http://feedproxy.google.com/~r/blog_Juanro49/~3/gsFEC_RFvHw/)
