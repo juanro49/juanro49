@@ -74,10 +74,10 @@
 - [Extraer imágenes de sistema Android desde Gnu/Linux](http://feedproxy.google.com/~r/blog_Juanro49/~3/gsFEC_RFvHw/)
 - [¿Se puede vivir sin los servicios de Google en Android? Ésta es mi experiencia](http://feedproxy.google.com/~r/blog_Juanro49/~3/q2hhZIRDMKc/%C2%BFSe-puede-vivir-sin-los-servicios-de-Google-en-Android)
 - [Review portatil MSI Alpha 15 A3DDK](http://feedproxy.google.com/~r/blog_Juanro49/~3/L9bq3gQN7Hg/)
-- [Actualizar Huawei y Honor con Firmware Finder &lpar;DNS&rpar;](http://feedproxy.google.com/~r/fediversetv_juanro49/~3/UphTJy4rvqY/b6f45fa6-d30f-4817-afee-724ca989034b)
-- [Zapi TV: Opinión sobre el servicio de TV de los operadores locales](http://feedproxy.google.com/~r/fediversetv_juanro49/~3/wEKsi3K5YOw/3bb29d5a-f527-444a-9441-e9ca47df5981)
-- [Unboxing Zapi STB, el TV Box de Zapi TV](http://feedproxy.google.com/~r/fediversetv_juanro49/~3/Uq4Y9SMLJj0/21eea4dc-62d6-485d-a25e-56d670358d78)
-- [Extraer y empaquetar imágenes del sistema Android &lpar;system.img y cust.img&rpar; desde Linux](http://feedproxy.google.com/~r/fediversetv_juanro49/~3/EUXiLL7AZDQ/eab8f313-fdef-496d-9365-6666d69ead37)
+- [Actualizar Huawei y Honor con Firmware Finder &lpar;DNS&rpar;](https://fediverse.tv/w/b6f45fa6-d30f-4817-afee-724ca989034b)
+- [Zapi TV: Opinión sobre el servicio de TV de los operadores locales](https://fediverse.tv/w/3bb29d5a-f527-444a-9441-e9ca47df5981)
+- [Unboxing Zapi STB, el TV Box de Zapi TV](https://fediverse.tv/w/21eea4dc-62d6-485d-a25e-56d670358d78)
+- [Extraer y empaquetar imágenes del sistema Android &lpar;system.img y cust.img&rpar; desde Linux](https://fediverse.tv/w/eab8f313-fdef-496d-9365-6666d69ead37)
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
 
