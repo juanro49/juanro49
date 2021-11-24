@@ -69,8 +69,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Lenguas de Extremadura](https://plume.nogafam.es/~/ElBlogDeJuanro/LenguasExtremadura/)
-- [F-Droid, la Store para los amantes del OpenSource](https://plume.nogafam.es/~/ElBlogDeJuanro/F-Droid, la Store para los amantes del OpenSource/)
-- [La moneda libre Ğ1, que es y que la diferencia de las demás criptomonedas](https://plume.nogafam.es/~/ElBlogDeJuanro/La moneda libre Ğ1, que es y que la diferencia de las demás criptomonedas/)
+- [F-Droid, la Store para los amantes del OpenSource](https://plume.nogafam.es/~/ElBlogDeJuanro/F-Droid\, la Store para los amantes del OpenSource/)
+- [La moneda libre Ğ1, que es y que la diferencia de las demás criptomonedas](https://plume.nogafam.es/~/ElBlogDeJuanro/La moneda libre Ğ1\, que es y que la diferencia de las demás criptomonedas/)
 - [Cómo usar Smart Cards y DNI electrónico en Firefox](https://plume.nogafam.es/~/ElBlogDeJuanro/Cómo usar Smart Cards y DNI electrónico en Firefox/)
 - [Extraer imágenes de sistema Android desde Gnu/Linux](https://plume.nogafam.es/~/ElBlogDeJuanro/Extraer imágenes de sistema Android desde Gnu/Linux/)
 - [¿Se puede vivir sin los servicios de Google en Android? Ésta es mi experiencia](https://plume.nogafam.es/~/ElBlogDeJuanro/¿Se-puede-vivir-sin-los-servicios-de-Google-en-Android?-Ésta-es-mi-experiencia/)
