@@ -76,10 +76,10 @@
 - [Extraer imágenes de sistema Android desde Gnu/Linux](https://plume.nogafam.es/~/ElBlogDeJuanro/Extraer imágenes de sistema Android desde Gnu/Linux/)
 - [¿Se puede vivir sin los servicios de Google en Android? Ésta es mi experiencia](https://plume.nogafam.es/~/ElBlogDeJuanro/¿Se-puede-vivir-sin-los-servicios-de-Google-en-Android?-Ésta-es-mi-experiencia/)
 - [Review portatil MSI Alpha 15 A3DDK](https://plume.nogafam.es/~/ElBlogDeJuanro/Review portatil MSI Alpha 15 A3DDK/)
-- [Actualizar Huawei y Honor con Firmware Finder &lpar;DNS&rpar;](https://fediverse.tv/w/oAkwEh4k8UC7Gfqr6NaogD)
-- [Zapi TV: Opinión sobre el servicio de TV de los operadores locales](https://fediverse.tv/w/8nyuCp5QSqrw3LiRzF9H8p)
-- [Unboxing Zapi STB, el TV Box de Zapi TV](https://fediverse.tv/w/5c2trLATcPbkaA4k4o7Nqy)
-- [Extraer y empaquetar imágenes del sistema Android &lpar;system.img y cust.img&rpar; desde Linux](https://fediverse.tv/w/uZ6XAVTkmNDftFBPmAMtNp)
+- [Actualizar Huawei y Honor con Firmware Finder &lpar;DNS&rpar;](https://fediverse.tv/w/b6f45fa6-d30f-4817-afee-724ca989034b)
+- [Zapi TV: Opinión sobre el servicio de TV de los operadores locales](https://fediverse.tv/w/3bb29d5a-f527-444a-9441-e9ca47df5981)
+- [Unboxing Zapi STB, el TV Box de Zapi TV](https://fediverse.tv/w/21eea4dc-62d6-485d-a25e-56d670358d78)
+- [Extraer y empaquetar imágenes del sistema Android &lpar;system.img y cust.img&rpar; desde Linux](https://fediverse.tv/w/eab8f313-fdef-496d-9365-6666d69ead37)
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
 
