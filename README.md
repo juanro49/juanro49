@@ -76,6 +76,10 @@
 - [Extraer imágenes de sistema Android desde Gnu/Linux](https://plume.nogafam.es/~/ElBlogDeJuanro/Extraer imágenes de sistema Android desde Gnu/Linux/)
 - [¿Se puede vivir sin los servicios de Google en Android? Ésta es mi experiencia](https://plume.nogafam.es/~/ElBlogDeJuanro/¿Se-puede-vivir-sin-los-servicios-de-Google-en-Android?-Ésta-es-mi-experiencia/)
 - [Review portatil MSI Alpha 15 A3DDK](https://plume.nogafam.es/~/ElBlogDeJuanro/Review portatil MSI Alpha 15 A3DDK/)
+- [Actualizar Huawei y Honor con Firmware Finder &lpar;DNS&rpar;](https://fediverse.tv/w/oAkwEh4k8UC7Gfqr6NaogD)
+- [Zapi TV: Opinión sobre el servicio de TV de los operadores locales](https://fediverse.tv/w/8nyuCp5QSqrw3LiRzF9H8p)
+- [Unboxing Zapi STB, el TV Box de Zapi TV](https://fediverse.tv/w/5c2trLATcPbkaA4k4o7Nqy)
+- [Extraer y empaquetar imágenes del sistema Android &lpar;system.img y cust.img&rpar; desde Linux](https://fediverse.tv/w/uZ6XAVTkmNDftFBPmAMtNp)
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
 
