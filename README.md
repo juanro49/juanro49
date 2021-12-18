@@ -69,6 +69,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Añade fuentes de canales a Agile TV, Zapi TV o cualquier TV Box](https://plume.nogafam.es/~/ElBlogDeJuanro/Añade-fuentes-de-canales-a-Agile-TV,-Zapi TV-o-cualquier-TV-Box/)
 - [Lenguas de Extremadura](https://plume.nogafam.es/~/ElBlogDeJuanro/LenguasExtremadura/)
 - [F-Droid, la Store para los amantes del OpenSource](https://plume.nogafam.es/~/ElBlogDeJuanro/F-Droid, la Store para los amantes del OpenSource/)
 - [La moneda libre Ğ1, que es y que la diferencia de las demás criptomonedas](https://plume.nogafam.es/~/ElBlogDeJuanro/La moneda libre Ğ1, que es y que la diferencia de las demás criptomonedas/)
