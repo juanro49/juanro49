@@ -69,6 +69,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Lo que los gobiernos y medios de desinformación no te cuentan sobre el covid, las vacunas y es importante que sepas](https://plume.nogafam.es/~/ElBlogDeJuanro/Lo-que-los-gobiernos-y-medios-de-desinfornación-no-te-cuentan-sobre-el-covid-las-vacunas-y-es-importante-que-sepas/)
 - [Añade fuentes de canales a Agile TV, Zapi TV o cualquier TV Box](https://plume.nogafam.es/~/ElBlogDeJuanro/Añade-fuentes-de-canales-a-Agile-TV,-Zapi TV-o-cualquier-TV-Box/)
 - [Lenguas de Extremadura](https://plume.nogafam.es/~/ElBlogDeJuanro/LenguasExtremadura/)
 - [F-Droid, la Store para los amantes del OpenSource](https://plume.nogafam.es/~/ElBlogDeJuanro/F-Droid, la Store para los amantes del OpenSource/)
