@@ -69,6 +69,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Zapi TV: El servicio de televisión con el que los pequeños operadores locales quieren competir con los grandes](https://plume.nogafam.es/~/ElBlogDeJuanro/Zapi-TV:-El-servicio-de-televisión-con-el-que-los-pequeños-operadores-locales-quieren-competir-con-los-grandes/)
 - [#Fedicorto Paseo perruno](https://fediverse.tv/w/rN8eZwpHPwbMWQJ6G7SwEr)
 - [Lo que los gobiernos y medios de desinformación no te cuentan sobre el covid, las vacunas y es importante que sepas](https://plume.nogafam.es/~/ElBlogDeJuanro/Lo-que-los-gobiernos-y-medios-de-desinfornación-no-te-cuentan-sobre-el-covid-las-vacunas-y-es-importante-que-sepas/)
 - [Añade fuentes de canales a Agile TV, Zapi TV o cualquier TV Box](https://plume.nogafam.es/~/ElBlogDeJuanro/Añade-fuentes-de-canales-a-Agile-TV,-Zapi TV-o-cualquier-TV-Box/)
