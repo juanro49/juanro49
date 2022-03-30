@@ -69,6 +69,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ruta al Mirador Celeste en la Sierra de Lares, en la aldea de Galizuela](https://fediverse.tv/w/58o2CV34ZrgfDF7hXjuihR)
 - [#Fedicorto Ruta a la piscina natural del rio Zújar](https://fediverse.tv/w/25zGWr5ReWXdZ4zPXcpGhE)
 - [#Fedicorto Ruta al Punto de Mira con perros](https://fediverse.tv/w/4sCQZVMxmeTKM1T15nbNcs)
 - [&lt;![CDATA[Zapi TV: El servicio de televisión con el que los pequeños operadores locales quieren competir con los grandes]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Zapi-TV:-El-servicio-de-televisión-con-el-que-los-pequeños-operadores-locales-quieren-competir-con-los-grandes/)
@@ -83,7 +84,6 @@
 - [&lt;![CDATA[¿Se puede vivir sin los servicios de Google en Android? Ésta es mi experiencia]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/¿Se-puede-vivir-sin-los-servicios-de-Google-en-Android?-Ésta-es-mi-experiencia/)
 - [&lt;![CDATA[Review portatil MSI Alpha 15 A3DDK]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Review portatil MSI Alpha 15 A3DDK/)
 - [Actualizar Huawei y Honor con Firmware Finder &lpar;DNS&rpar;](https://fediverse.tv/w/oAkwEh4k8UC7Gfqr6NaogD)
-- [Zapi TV: Opinión sobre el servicio de TV de los operadores locales](https://fediverse.tv/w/8nyuCp5QSqrw3LiRzF9H8p)
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
 
