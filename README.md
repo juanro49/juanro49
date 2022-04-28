@@ -69,6 +69,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [&lt;![CDATA[Que es el Fediverso y que lo diferencia de Mastodon y otras plataformas libres]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Que%20es%20el%20Fediverso%20y%20que%20lo%20diferencia%20de%20Mastodon%20y%20otras%20plataformas%20libres/)
 - [Ruta al Mirador Celeste en la Sierra de Lares, en la aldea de Galizuela](https://fediverse.tv/w/58o2CV34ZrgfDF7hXjuihR)
 - [#Fedicorto Ruta a la piscina natural del rio Zújar](https://fediverse.tv/w/25zGWr5ReWXdZ4zPXcpGhE)
 - [#Fedicorto Ruta al Punto de Mira con perros](https://fediverse.tv/w/4sCQZVMxmeTKM1T15nbNcs)
@@ -83,7 +84,6 @@
 - [&lt;![CDATA[Extraer imágenes de sistema Android desde Gnu/Linux]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Extraer imágenes de sistema Android desde Gnu/Linux/)
 - [&lt;![CDATA[¿Se puede vivir sin los servicios de Google en Android? Ésta es mi experiencia]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/¿Se-puede-vivir-sin-los-servicios-de-Google-en-Android?-Ésta-es-mi-experiencia/)
 - [&lt;![CDATA[Review portatil MSI Alpha 15 A3DDK]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Review portatil MSI Alpha 15 A3DDK/)
-- [Actualizar Huawei y Honor con Firmware Finder &lpar;DNS&rpar;](https://fediverse.tv/w/oAkwEh4k8UC7Gfqr6NaogD)
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
 
