@@ -69,14 +69,21 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [&lt;![CDATA[Que es el Fediverso y que lo diferencia de Mastodon y otras plataformas libres]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Que%20es%20el%20Fediverso%20y%20que%20lo%20diferencia%20de%20Mastodon%20y%20otras%20plataformas%20libres/)
 - [Ruta al Mirador Celeste en la Sierra de Lares, en la aldea de Galizuela](https://fediverse.tv/w/58o2CV34ZrgfDF7hXjuihR)
 - [#Fedicorto Ruta a la piscina natural del rio Zújar](https://fediverse.tv/w/25zGWr5ReWXdZ4zPXcpGhE)
 - [#Fedicorto Ruta al Punto de Mira con perros](https://fediverse.tv/w/4sCQZVMxmeTKM1T15nbNcs)
+- [&lt;![CDATA[Zapi TV: El servicio de televisión con el que los pequeños operadores locales quieren competir con los grandes]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Zapi-TV:-El-servicio-de-televisión-con-el-que-los-pequeños-operadores-locales-quieren-competir-con-los-grandes/)
 - [#Fedicorto Paseo perruno](https://fediverse.tv/w/rN8eZwpHPwbMWQJ6G7SwEr)
-- [Actualizar Huawei y Honor con Firmware Finder &lpar;DNS&rpar;](https://fediverse.tv/w/oAkwEh4k8UC7Gfqr6NaogD)
-- [Zapi TV: Opinión sobre el servicio de TV de los operadores locales](https://fediverse.tv/w/8nyuCp5QSqrw3LiRzF9H8p)
-- [Unboxing Zapi STB, el TV Box de Zapi TV](https://fediverse.tv/w/5c2trLATcPbkaA4k4o7Nqy)
-- [Extraer y empaquetar imágenes del sistema Android &lpar;system.img y cust.img&rpar; desde Linux](https://fediverse.tv/w/uZ6XAVTkmNDftFBPmAMtNp)
+- [&lt;![CDATA[Lo que los gobiernos y medios de desinformación no te cuentan sobre el covid, las vacunas y es importante que sepas]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Lo-que-los-gobiernos-y-medios-de-desinfornación-no-te-cuentan-sobre-el-covid-las-vacunas-y-es-importante-que-sepas/)
+- [&lt;![CDATA[Añade fuentes de canales a Agile TV, Zapi TV o cualquier TV Box]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Añade-fuentes-de-canales-a-Agile-TV,-Zapi TV-o-cualquier-TV-Box/)
+- [&lt;![CDATA[Lenguas de Extremadura]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/LenguasExtremadura/)
+- [&lt;![CDATA[F-Droid, la Store para los amantes del OpenSource]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/F-Droid, la Store para los amantes del OpenSource/)
+- [&lt;![CDATA[La moneda libre Ğ1, que es y que la diferencia de las demás criptomonedas]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/La moneda libre Ğ1, que es y que la diferencia de las demás criptomonedas/)
+- [&lt;![CDATA[Cómo usar Smart Cards y DNI electrónico en Firefox]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Cómo usar Smart Cards y DNI electrónico en Firefox/)
+- [&lt;![CDATA[Extraer imágenes de sistema Android desde Gnu/Linux]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Extraer imágenes de sistema Android desde Gnu/Linux/)
+- [&lt;![CDATA[¿Se puede vivir sin los servicios de Google en Android? Ésta es mi experiencia]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/¿Se-puede-vivir-sin-los-servicios-de-Google-en-Android?-Ésta-es-mi-experiencia/)
+- [&lt;![CDATA[Review portatil MSI Alpha 15 A3DDK]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Review portatil MSI Alpha 15 A3DDK/)
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
 
