@@ -23,10 +23,9 @@
   <a href="https://blabber.im/u/juanro49@disroot.org" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/xmpp.svg" alt="juanro49@disroot.org" height="30" width="40" /></a>
   <a href="https://matrix.to/#/@juanro49:matrix.nogafam.es" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/matrix.svg" alt="juanro49" height="30" width="40" /></a>
   <a rel="me" href="https://masto.nobigtech.es/@juanro49"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/mastodon.svg" alt="juanro49" height="30" width="40" /></a>
-  <a href="https://pixelfed.social/juanro49" target="blank"><img align="center" src="https://pixelfed.nyc3.digitaloceanspaces.com/logos/pixelfed-icon-black.svg" alt="juanro49" height="30" width="40" /></a>
+  <a rel="me" href="https://pixel.nobigtech.es/@juanro49"><img align="center" src="https://pixelfed.nyc3.digitaloceanspaces.com/logos/pixelfed-icon-black.svg" alt="juanro49" height="30" width="40" /></a>
   <a rel="me" href="https://fe.disroot.org/@juanro49"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/pleroma.svg" alt="juanro49" height="30" width="40" /></a>
-  <a href="https://hub.disroot.org/channel/juanro49" target="blank"><img align="center" src="https://nlnet.nl/project/Hubzilla/hubzilla.svg" alt="juanro49" height="30" width="40" /></a>
-  <a href="https://fediverse.tv/accounts/juanro49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/peertube.svg" alt="juanro49" height="30" width="40" /></a>
+  <a rel="me" href="https://fediverse.tv/accounts/juanro49"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/peertube.svg" alt="juanro49" height="30" width="40" /></a>
   <a href="https://twitter.com/juanro49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/twitter.svg" alt="juanro49" height="30" width="40" /></a>
   <a href="https://fb.com/juanro49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/facebook.svg" alt="juanro49" height="30" width="40" /></a>
   <a href="https://instagram.com/juanro49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/instagram.svg" alt="juanro49" height="30" width="40" /></a>
