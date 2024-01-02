@@ -68,6 +68,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [#Fedicorto Los privilegios del mundo rural](https://fediverse.tv/w/9zEvwPjxkYL91xAvKZHU5g)
 - [#Fedicorto En bici al mirador celeste de Galizuela](https://fediverse.tv/w/2xBrZn9fAEEW5wNHyBPkb1)
 - [Manantial de La Peña y el Arroyo Casa semanas después de las intensas lluvias #Fedicorto](https://fediverse.tv/w/r79XViFZCUWV4QZvMPyFHz)
 - [&lt;![CDATA[Que es el Fediverso y que lo diferencia de Mastodon y otras plataformas libres]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Que%20es%20el%20Fediverso%20y%20que%20lo%20diferencia%20de%20Mastodon%20y%20otras%20plataformas%20libres/)
@@ -82,7 +83,6 @@
 - [&lt;![CDATA[F-Droid, la Store para los amantes del OpenSource]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/F-Droid, la Store para los amantes del OpenSource/)
 - [&lt;![CDATA[La moneda libre Ğ1, que es y que la diferencia de las demás criptomonedas]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/La moneda libre Ğ1, que es y que la diferencia de las demás criptomonedas/)
 - [&lt;![CDATA[Cómo usar Smart Cards y DNI electrónico en Firefox]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Cómo usar Smart Cards y DNI electrónico en Firefox/)
-- [&lt;![CDATA[Extraer imágenes de sistema Android desde Gnu/Linux]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Extraer imágenes de sistema Android desde Gnu/Linux/)
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
 
