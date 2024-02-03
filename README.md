@@ -68,6 +68,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mirador Cabezabellosa](https://fediverse.tv/w/dTEpddSUHfqW2RwwYhfNpM)
+- [Garganta de las Nogaleas/Nogaledas](https://fediverse.tv/w/cNYbCQj4TEKN9cGGRo7kmi)
 - [#Fedicorto Los privilegios del mundo rural](https://fediverse.tv/w/9zEvwPjxkYL91xAvKZHU5g)
 - [#Fedicorto En bici al mirador celeste de Galizuela](https://fediverse.tv/w/2xBrZn9fAEEW5wNHyBPkb1)
 - [Manantial de La Peña y el Arroyo Casa semanas después de las intensas lluvias #Fedicorto](https://fediverse.tv/w/r79XViFZCUWV4QZvMPyFHz)
@@ -81,8 +83,6 @@
 - [&lt;![CDATA[Añade fuentes de canales a Agile TV, Zapi TV o cualquier TV Box]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Añade-fuentes-de-canales-a-Agile-TV,-Zapi TV-o-cualquier-TV-Box/)
 - [&lt;![CDATA[Lenguas de Extremadura]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/LenguasExtremadura/)
 - [&lt;![CDATA[F-Droid, la Store para los amantes del OpenSource]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/F-Droid, la Store para los amantes del OpenSource/)
-- [&lt;![CDATA[La moneda libre Ğ1, que es y que la diferencia de las demás criptomonedas]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/La moneda libre Ğ1, que es y que la diferencia de las demás criptomonedas/)
-- [&lt;![CDATA[Cómo usar Smart Cards y DNI electrónico en Firefox]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Cómo usar Smart Cards y DNI electrónico en Firefox/)
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
 
