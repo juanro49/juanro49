@@ -68,6 +68,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ruta nacimientos rios Zújar y Guadiato](https://fediverse.tv/w/742ZTYYhHvsdy52bbZFSWC)
 - [Mirador Cabezabellosa](https://fediverse.tv/w/dTEpddSUHfqW2RwwYhfNpM)
 - [Garganta de las Nogaleas/Nogaledas](https://fediverse.tv/w/cNYbCQj4TEKN9cGGRo7kmi)
 - [#Fedicorto Los privilegios del mundo rural](https://fediverse.tv/w/9zEvwPjxkYL91xAvKZHU5g)
@@ -82,7 +83,6 @@
 - [&lt;![CDATA[Lo que los gobiernos y medios de desinformación no te cuentan sobre el covid, las vacunas y es importante que sepas]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Lo-que-los-gobiernos-y-medios-de-desinfornación-no-te-cuentan-sobre-el-covid-las-vacunas-y-es-importante-que-sepas/)
 - [&lt;![CDATA[Añade fuentes de canales a Agile TV, Zapi TV o cualquier TV Box]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Añade-fuentes-de-canales-a-Agile-TV,-Zapi TV-o-cualquier-TV-Box/)
 - [&lt;![CDATA[Lenguas de Extremadura]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/LenguasExtremadura/)
-- [&lt;![CDATA[F-Droid, la Store para los amantes del OpenSource]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/F-Droid, la Store para los amantes del OpenSource/)
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
 
