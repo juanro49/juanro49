@@ -68,6 +68,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ruta senderista por Parque Nacional de Monfragüe](https://fediverse.tv/w/iW6vSrPhjMnGdRYsZ9Ni7X)
 - [Ruta nacimientos rios Zújar y Guadiato](https://fediverse.tv/w/742ZTYYhHvsdy52bbZFSWC)
 - [Mirador Cabezabellosa](https://fediverse.tv/w/dTEpddSUHfqW2RwwYhfNpM)
 - [Garganta de las Nogaleas/Nogaledas](https://fediverse.tv/w/cNYbCQj4TEKN9cGGRo7kmi)
@@ -82,7 +83,6 @@
 - [#Fedicorto Paseo perruno](https://fediverse.tv/w/rN8eZwpHPwbMWQJ6G7SwEr)
 - [&lt;![CDATA[Lo que los gobiernos y medios de desinformación no te cuentan sobre el covid, las vacunas y es importante que sepas]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Lo-que-los-gobiernos-y-medios-de-desinfornación-no-te-cuentan-sobre-el-covid-las-vacunas-y-es-importante-que-sepas/)
 - [&lt;![CDATA[Añade fuentes de canales a Agile TV, Zapi TV o cualquier TV Box]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Añade-fuentes-de-canales-a-Agile-TV,-Zapi TV-o-cualquier-TV-Box/)
-- [&lt;![CDATA[Lenguas de Extremadura]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/LenguasExtremadura/)
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
 
