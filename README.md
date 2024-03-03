@@ -68,6 +68,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ruta pico Xálima](https://fediverse.tv/w/5b6BhPwjNApVdiSCvYvpbT)
 - [Ruta senderista por Parque Nacional de Monfragüe](https://fediverse.tv/w/iW6vSrPhjMnGdRYsZ9Ni7X)
 - [Ruta nacimientos rios Zújar y Guadiato](https://fediverse.tv/w/742ZTYYhHvsdy52bbZFSWC)
 - [Mirador Cabezabellosa](https://fediverse.tv/w/dTEpddSUHfqW2RwwYhfNpM)
@@ -82,7 +83,6 @@
 - [&lt;![CDATA[Zapi TV: El servicio de televisión con el que los pequeños operadores locales quieren competir con los grandes]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Zapi-TV:-El-servicio-de-televisión-con-el-que-los-pequeños-operadores-locales-quieren-competir-con-los-grandes/)
 - [#Fedicorto Paseo perruno](https://fediverse.tv/w/rN8eZwpHPwbMWQJ6G7SwEr)
 - [&lt;![CDATA[Lo que los gobiernos y medios de desinformación no te cuentan sobre el covid, las vacunas y es importante que sepas]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Lo-que-los-gobiernos-y-medios-de-desinfornación-no-te-cuentan-sobre-el-covid-las-vacunas-y-es-importante-que-sepas/)
-- [&lt;![CDATA[Añade fuentes de canales a Agile TV, Zapi TV o cualquier TV Box]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Añade-fuentes-de-canales-a-Agile-TV,-Zapi TV-o-cualquier-TV-Box/)
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
 
