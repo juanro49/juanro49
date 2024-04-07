@@ -68,6 +68,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ruta al chorrituelo de Ovejuela](https://fediverse.tv/w/nBpUTQoXddBWEDqJmibJ9A)
 - [Ruta pico Xálima](https://fediverse.tv/w/5b6BhPwjNApVdiSCvYvpbT)
 - [Ruta senderista por Parque Nacional de Monfragüe](https://fediverse.tv/w/iW6vSrPhjMnGdRYsZ9Ni7X)
 - [Ruta nacimientos rios Zújar y Guadiato](https://fediverse.tv/w/742ZTYYhHvsdy52bbZFSWC)
@@ -82,7 +83,6 @@
 - [#Fedicorto Ruta al Punto de Mira con perros](https://fediverse.tv/w/4sCQZVMxmeTKM1T15nbNcs)
 - [&lt;![CDATA[Zapi TV: El servicio de televisión con el que los pequeños operadores locales quieren competir con los grandes]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Zapi-TV:-El-servicio-de-televisión-con-el-que-los-pequeños-operadores-locales-quieren-competir-con-los-grandes/)
 - [#Fedicorto Paseo perruno](https://fediverse.tv/w/rN8eZwpHPwbMWQJ6G7SwEr)
-- [&lt;![CDATA[Lo que los gobiernos y medios de desinformación no te cuentan sobre el covid, las vacunas y es importante que sepas]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Lo-que-los-gobiernos-y-medios-de-desinfornación-no-te-cuentan-sobre-el-covid-las-vacunas-y-es-importante-que-sepas/)
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
 
