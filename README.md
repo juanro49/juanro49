@@ -77,12 +77,12 @@
 - [#Fedicorto Los privilegios del mundo rural](https://fediverse.tv/w/9zEvwPjxkYL91xAvKZHU5g)
 - [#Fedicorto En bici al mirador celeste de Galizuela](https://fediverse.tv/w/2xBrZn9fAEEW5wNHyBPkb1)
 - [Manantial de La Peña y el Arroyo Casa semanas después de las intensas lluvias #Fedicorto](https://fediverse.tv/w/r79XViFZCUWV4QZvMPyFHz)
-- [&lt;![CDATA[Que es el Fediverso y que lo diferencia de Mastodon y otras plataformas libres]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Que%20es%20el%20Fediverso%20y%20que%20lo%20diferencia%20de%20Mastodon%20y%20otras%20plataformas%20libres/)
 - [Ruta al Mirador Celeste en la Sierra de Lares, en la aldea de Galizuela](https://fediverse.tv/w/58o2CV34ZrgfDF7hXjuihR)
 - [#Fedicorto Ruta a la piscina natural del rio Zújar](https://fediverse.tv/w/25zGWr5ReWXdZ4zPXcpGhE)
 - [#Fedicorto Ruta al Punto de Mira con perros](https://fediverse.tv/w/4sCQZVMxmeTKM1T15nbNcs)
-- [&lt;![CDATA[Zapi TV: El servicio de televisión con el que los pequeños operadores locales quieren competir con los grandes]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Zapi-TV:-El-servicio-de-televisión-con-el-que-los-pequeños-operadores-locales-quieren-competir-con-los-grandes/)
 - [#Fedicorto Paseo perruno](https://fediverse.tv/w/rN8eZwpHPwbMWQJ6G7SwEr)
+- [Actualizar Huawei y Honor con Firmware Finder &lpar;DNS&rpar;](https://fediverse.tv/w/oAkwEh4k8UC7Gfqr6NaogD)
+- [Zapi TV: Opinión sobre el servicio de TV de los operadores locales](https://fediverse.tv/w/8nyuCp5QSqrw3LiRzF9H8p)
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
 
