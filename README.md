@@ -68,17 +68,21 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ruta al chorrituelo de Ovejuela](https://fediverse.tv/w/nBpUTQoXddBWEDqJmibJ9A)
+- [Ruta pico Xálima](https://fediverse.tv/w/5b6BhPwjNApVdiSCvYvpbT)
+- [Ruta senderista por Parque Nacional de Monfragüe](https://fediverse.tv/w/iW6vSrPhjMnGdRYsZ9Ni7X)
+- [Ruta nacimientos rios Zújar y Guadiato](https://fediverse.tv/w/742ZTYYhHvsdy52bbZFSWC)
+- [Mirador Cabezabellosa](https://fediverse.tv/w/dTEpddSUHfqW2RwwYhfNpM)
+- [Garganta de las Nogaleas/Nogaledas](https://fediverse.tv/w/cNYbCQj4TEKN9cGGRo7kmi)
+- [#Fedicorto Los privilegios del mundo rural](https://fediverse.tv/w/9zEvwPjxkYL91xAvKZHU5g)
+- [#Fedicorto En bici al mirador celeste de Galizuela](https://fediverse.tv/w/2xBrZn9fAEEW5wNHyBPkb1)
+- [Manantial de La Peña y el Arroyo Casa semanas después de las intensas lluvias #Fedicorto](https://fediverse.tv/w/r79XViFZCUWV4QZvMPyFHz)
 - [&lt;![CDATA[Que es el Fediverso y que lo diferencia de Mastodon y otras plataformas libres]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Que%20es%20el%20Fediverso%20y%20que%20lo%20diferencia%20de%20Mastodon%20y%20otras%20plataformas%20libres/)
+- [Ruta al Mirador Celeste en la Sierra de Lares, en la aldea de Galizuela](https://fediverse.tv/w/58o2CV34ZrgfDF7hXjuihR)
+- [#Fedicorto Ruta a la piscina natural del rio Zújar](https://fediverse.tv/w/25zGWr5ReWXdZ4zPXcpGhE)
+- [#Fedicorto Ruta al Punto de Mira con perros](https://fediverse.tv/w/4sCQZVMxmeTKM1T15nbNcs)
 - [&lt;![CDATA[Zapi TV: El servicio de televisión con el que los pequeños operadores locales quieren competir con los grandes]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Zapi-TV:-El-servicio-de-televisión-con-el-que-los-pequeños-operadores-locales-quieren-competir-con-los-grandes/)
-- [&lt;![CDATA[Lo que los gobiernos y medios de desinformación no te cuentan sobre el covid, las vacunas y es importante que sepas]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Lo-que-los-gobiernos-y-medios-de-desinfornación-no-te-cuentan-sobre-el-covid-las-vacunas-y-es-importante-que-sepas/)
-- [&lt;![CDATA[Añade fuentes de canales a Agile TV, Zapi TV o cualquier TV Box]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Añade-fuentes-de-canales-a-Agile-TV,-Zapi TV-o-cualquier-TV-Box/)
-- [&lt;![CDATA[Lenguas de Extremadura]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/LenguasExtremadura/)
-- [&lt;![CDATA[F-Droid, la Store para los amantes del OpenSource]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/F-Droid, la Store para los amantes del OpenSource/)
-- [&lt;![CDATA[La moneda libre Ğ1, que es y que la diferencia de las demás criptomonedas]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/La moneda libre Ğ1, que es y que la diferencia de las demás criptomonedas/)
-- [&lt;![CDATA[Cómo usar Smart Cards y DNI electrónico en Firefox]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Cómo usar Smart Cards y DNI electrónico en Firefox/)
-- [&lt;![CDATA[Extraer imágenes de sistema Android desde Gnu/Linux]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Extraer imágenes de sistema Android desde Gnu/Linux/)
-- [&lt;![CDATA[¿Se puede vivir sin los servicios de Google en Android? Ésta es mi experiencia]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/¿Se-puede-vivir-sin-los-servicios-de-Google-en-Android?-Ésta-es-mi-experiencia/)
-- [&lt;![CDATA[Review portatil MSI Alpha 15 A3DDK]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Review portatil MSI Alpha 15 A3DDK/)
+- [#Fedicorto Paseo perruno](https://fediverse.tv/w/rN8eZwpHPwbMWQJ6G7SwEr)
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
 
