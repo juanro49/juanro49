@@ -68,6 +68,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ruta Valle del Esperabán](https://fediverse.tv/w/u1aftP3bCyp617vrcqa58e)
 - [Ruta al chorrituelo de Ovejuela](https://fediverse.tv/w/nBpUTQoXddBWEDqJmibJ9A)
 - [Ruta pico Xálima](https://fediverse.tv/w/5b6BhPwjNApVdiSCvYvpbT)
 - [Ruta senderista por Parque Nacional de Monfragüe](https://fediverse.tv/w/iW6vSrPhjMnGdRYsZ9Ni7X)
@@ -82,7 +83,6 @@
 - [#Fedicorto Ruta a la piscina natural del rio Zújar](https://fediverse.tv/w/25zGWr5ReWXdZ4zPXcpGhE)
 - [#Fedicorto Ruta al Punto de Mira con perros](https://fediverse.tv/w/4sCQZVMxmeTKM1T15nbNcs)
 - [&lt;![CDATA[Zapi TV: El servicio de televisión con el que los pequeños operadores locales quieren competir con los grandes]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Zapi-TV:-El-servicio-de-televisión-con-el-que-los-pequeños-operadores-locales-quieren-competir-con-los-grandes/)
-- [#Fedicorto Paseo perruno](https://fediverse.tv/w/rN8eZwpHPwbMWQJ6G7SwEr)
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
 
