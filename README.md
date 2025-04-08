@@ -68,6 +68,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Unboxing y primeras impresiones PocketBook Verse Pro Color](https://fediverse.tv/w/wkmSFufmyCxohM2kU7fkpQ)
 - [Ruta Valle del Esperabán](https://fediverse.tv/w/u1aftP3bCyp617vrcqa58e)
 - [Ruta al chorrituelo de Ovejuela](https://fediverse.tv/w/nBpUTQoXddBWEDqJmibJ9A)
 - [Ruta pico Xálima](https://fediverse.tv/w/5b6BhPwjNApVdiSCvYvpbT)
@@ -82,7 +83,6 @@
 - [Ruta al Mirador Celeste en la Sierra de Lares, en la aldea de Galizuela](https://fediverse.tv/w/58o2CV34ZrgfDF7hXjuihR)
 - [#Fedicorto Ruta a la piscina natural del rio Zújar](https://fediverse.tv/w/25zGWr5ReWXdZ4zPXcpGhE)
 - [#Fedicorto Ruta al Punto de Mira con perros](https://fediverse.tv/w/4sCQZVMxmeTKM1T15nbNcs)
-- [&lt;![CDATA[Zapi TV: El servicio de televisión con el que los pequeños operadores locales quieren competir con los grandes]]&gt;](https://plume.nogafam.es/~/ElBlogDeJuanro/Zapi-TV:-El-servicio-de-televisión-con-el-que-los-pequeños-operadores-locales-quieren-competir-con-los-grandes/)
 <!-- BLOG-POST-LIST:END -->
 &nbsp;
 
