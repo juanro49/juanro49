@@ -10,29 +10,11 @@
 
 - 👨‍💻 Puedes encontrar mis proyectos en la pestaña [repositorios de Github](https://github.com/juanro49?tab=repositories)
 
-- 📝 Suelo escribir artículos en [un blog](https://plume.nogafam.es/~/ElBlogDeJuanro)
+- 📝 Suelo escribir artículos en [un blog](https://habla.news/p/npub1hgclq59xd44wuulmykzqtfz0elaxvt3y0p8xv5y5f78u95cgjsnshhy0we)
 
 - 📄 Conoce mi experiencia y formación en [LinkedIn](https://www.linkedin.com/in/juanro49/)
 
-- 📫 Puedes contactar conmigo mediante [correo electrónico](mailto:juanro49+git@getgoogleoff.me) y encontrarme principalmente en [redes del fediverso](https://fediverse.party/) además de las siguientes:
-
-  <p align="center">
-  <a href="https://linkedin.com/in/juanro49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/linkedin.svg" alt="juanro49" height="30" width="40" /></a>
-  <a href="https://es.stackoverflow.com/users/141821" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/stackoverflow.svg" alt="141821" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/12071003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/stackoverflow.svg" alt="12071003" height="30" width="40" /></a>
-  <a href="https://blabber.im/u/juanro49@disroot.org" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/xmpp.svg" alt="juanro49@disroot.org" height="30" width="40" /></a>
-  <a href="https://matrix.to/#/@juanro49:matrix.nogafam.es" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/matrix.svg" alt="juanro49" height="30" width="40" /></a>
-  <a rel="me" href="https://masto.nobigtech.es/@juanro49"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/mastodon.svg" alt="juanro49" height="30" width="40" /></a>
-  <a rel="me" href="https://pixel.nobigtech.es/@juanro49"><img align="center" src="https://pixelfed.nyc3.digitaloceanspaces.com/logos/pixelfed-icon-black.svg" alt="juanro49" height="30" width="40" /></a>
-  <a rel="me" href="https://fe.disroot.org/@juanro49"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/pleroma.svg" alt="juanro49" height="30" width="40" /></a>
-  <a rel="me" href="https://fediverse.tv/accounts/juanro49"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/peertube.svg" alt="juanro49" height="30" width="40" /></a>
-  <a href="https://twitter.com/juanro49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/twitter.svg" alt="juanro49" height="30" width="40" /></a>
-  <a href="https://fb.com/juanro49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/facebook.svg" alt="juanro49" height="30" width="40" /></a>
-  <a href="https://instagram.com/juanro49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/instagram.svg" alt="juanro49" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UCJkMEVjp1WPET7RGMQUjpnQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/youtube.svg" alt="ruper_49" height="30" width="40" /></a>
-  <a href="http://feeds.feedburner.com/blog_Juanro49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/rss.svg" alt="http://feeds.feedburner.com/blog_Juanro49" height="30" width="40" /></a>
-  </p>
-&nbsp;
+- 📫 Puedes contactar conmigo mediante [correo electrónico](mailto:juanro49+git@getgoogleoff.me) y encontrarme principalmente en [redes del fediverso](https://fediverse.party/) además de [otros medios](https://nostree.me/juanro49@nostrcheck.me).
 
 ### Lenguajes y herramientas:
   <p align="center">
@@ -60,13 +42,34 @@
 &nbsp;
 
 ### Mis estadísticas en Github:
-<p align="center">
-  <img height="145dp" src="https://github-readme-stats.vercel.app/api?username=juanro49&show_icons=true&theme=tokyonight&locale=es&count_private=true&include_all_commits=true" alt="juanro49" /><img height="145dp" src="https://github-readme-streak-stats.herokuapp.com/?user=juanro49&theme=tokyonight&locale=es" alt="juanro49" />
-</p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanro49" alt="juanro49" /></a> </p>
+<div align="center" id="github-metrics">
+  <img height="133p" src="https://github-readme-stats-delta-six-18.vercel.app/api?username=juanro49&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=es&hide_border=false&order=1" alt="stats graph"  />
+  <img height="133p" src="https://github-readme-stats-delta-six-18.vercel.app/api/top-langs?username=juanro49&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false" alt="languages graph"  />
+  <img height="133dp" src="https://github-readme-streak-stats.herokuapp.com/?user=juanro49&locale=es&theme=tokyonight&hide_border=false&border_radius=5" alt="juanro49" />
+  <img src="https://trophygh.kolioaris.xyz/?username=juanro49&theme=tokyonight&column=-1&row=-1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" alt="trophy graph"  />
+  <img height="400p" src="https://github-readme-activity-graph.vercel.app/graph?username=juanro49&radius=16&theme=tokyo-night&area=true&lang=es" alt="activity-graph graph"  />
+</div>
 &nbsp;
+<p>
+<picture>
+  <source srcset="https://github.com/juanro49/github_stats/blob/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://github.com/juanro49/github_stats/blob/main/output/stats_commits.svg">
+</picture>
+<picture>
+  <source srcset="https://github.com/juanro49/github_stats/blob/main/output/stats_langs.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://github.com/juanro49/github_stats/blob/main/output/stats_langs.svg">
+</picture>
+<picture>
+  <source srcset="https://github.com/juanro49/github_stats/blob/main/output/stats_general.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://github.com/juanro49/github_stats/blob/main/output/stats_general.svg">
+</picture>
+<picture>
+  <source srcset="https://github.com/juanro49/github_stats/blob/main/output/stats_visitors.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://github.com/juanro49/github_stats/blob/main/output/stats_visitors.svg">
+</picture>
+</p>
 
-### Blogs posts
+### Blogs y Video posts
 <!-- BLOG-POST-LIST:START -->
 - [Unboxing y primeras impresiones PocketBook Verse Pro Color](https://fediverse.tv/w/wkmSFufmyCxohM2kU7fkpQ)
 - [Ruta Valle del Esperabán](https://fediverse.tv/w/u1aftP3bCyp617vrcqa58e)
